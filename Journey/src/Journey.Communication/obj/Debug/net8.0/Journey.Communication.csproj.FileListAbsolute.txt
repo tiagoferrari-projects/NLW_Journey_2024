@@ -1,0 +1,12 @@
+C:\Users\tiago\OneDrive\Documentos\GitHub\NLW_Journey_2024\Journey\src\Journey.Communication\bin\Debug\net8.0\Journey.Communication.deps.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\NLW_Journey_2024\Journey\src\Journey.Communication\bin\Debug\net8.0\Journey.Communication.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\NLW_Journey_2024\Journey\src\Journey.Communication\bin\Debug\net8.0\Journey.Communication.pdb
+C:\Users\tiago\OneDrive\Documentos\GitHub\NLW_Journey_2024\Journey\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\OneDrive\Documentos\GitHub\NLW_Journey_2024\Journey\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.AssemblyInfoInputs.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\NLW_Journey_2024\Journey\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.AssemblyInfo.cs
+C:\Users\tiago\OneDrive\Documentos\GitHub\NLW_Journey_2024\Journey\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\NLW_Journey_2024\Journey\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.sourcelink.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\NLW_Journey_2024\Journey\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\NLW_Journey_2024\Journey\src\Journey.Communication\obj\Debug\net8.0\refint\Journey.Communication.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\NLW_Journey_2024\Journey\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.pdb
+C:\Users\tiago\OneDrive\Documentos\GitHub\NLW_Journey_2024\Journey\src\Journey.Communication\obj\Debug\net8.0\ref\Journey.Communication.dll

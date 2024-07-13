@@ -1,0 +1,15 @@
+C:\Users\tiago\OneDrive\Documentos\GitHub\NLW_Journey_2024\Journey\src\Journey.Infrastructure\bin\Debug\net8.0\Journey.Infrastructure.deps.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\NLW_Journey_2024\Journey\src\Journey.Infrastructure\bin\Debug\net8.0\Journey.Infrastructure.runtimeconfig.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\NLW_Journey_2024\Journey\src\Journey.Infrastructure\bin\Debug\net8.0\Journey.Infrastructure.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\NLW_Journey_2024\Journey\src\Journey.Infrastructure\bin\Debug\net8.0\Journey.Infrastructure.pdb
+C:\Users\tiago\OneDrive\Documentos\GitHub\NLW_Journey_2024\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\NLW_Journey_2024\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\OneDrive\Documentos\GitHub\NLW_Journey_2024\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\NLW_Journey_2024\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.AssemblyInfo.cs
+C:\Users\tiago\OneDrive\Documentos\GitHub\NLW_Journey_2024\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\NLW_Journey_2024\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.sourcelink.json
+C:\Users\tiago\OneDrive\Documentos\GitHub\NLW_Journey_2024\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\NLW_Journey_2024\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\refint\Journey.Infrastructure.dll
+C:\Users\tiago\OneDrive\Documentos\GitHub\NLW_Journey_2024\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.pdb
+C:\Users\tiago\OneDrive\Documentos\GitHub\NLW_Journey_2024\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.genruntimeconfig.cache
+C:\Users\tiago\OneDrive\Documentos\GitHub\NLW_Journey_2024\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\ref\Journey.Infrastructure.dll
